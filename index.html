@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="style.css">
+
+
+  <title>Clima Tempo</title>
+</head>
+<body>
+  <header>
+    <h2>Clima Tempo</h2>
+    <nav>
+      <input type="text" id="input-search" placeholder="Digite o nome da cidade">
+      <button type="button" id="button-search">Buscar</button>
+    </nav>
+  </header>
+
+  <main>
+      <img id="country-flag" src="https://www.countryflags.io/BR/flat/64.png" />
+      <h1 id="city-name">Nome da Cidade</h1>
+
+    <article>
+      <img id="weather-animation" src="./animations/night.svg" />
+      <h1 id="temperature">29º</h1>
+      <small>C</small>
+    </article>
+
+    <h3 id="weather-description">Situação do Clima</h3>
+
+   <aside>
+      <div>
+        <img src="./images/humidity.svg"/>
+        <span>umidade relativa do ar:</span>
+        <strong id="humidity">0%</strong>
+      </div>
+
+      <div>
+        <img src="./images/wind.svg"/>
+        <span>velocidade do vendo:</span>
+        <strong id="wind-speed">0 km</strong>
+      </div>
+    </aside> 
+  </main>
+
+  <footer>
+    <span>Paradigma de Programação</span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
