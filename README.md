@@ -16,5 +16,5 @@ https://github.com/rodrigorgtic/clima-tempo-js
 ### API 
 Application Programming Interface, ou Interface de Programação de Aplicativos. API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web. 
 
-[x] API para obter informações do clima tempo: https://openweathermap.org/current
-[x] API para obter bandeiras: https://www.countryflags.io/
+- [x] API para obter informações do clima tempo: https://openweathermap.org/current
+- [x] API para obter bandeiras: https://www.countryflags.io/
