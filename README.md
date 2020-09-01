@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
 <img src="https://static5.vvale.com.br/wp-content/uploads/2018/01/PrevisXXo-do-tempo1.png" height="150px" />
 </p>
 
